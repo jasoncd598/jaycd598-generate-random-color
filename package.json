@@ -1,0 +1,26 @@
+{
+  "name": "@jaycd598/generate-random-color",
+  "version": "1.0.0",
+  "description": "Generate random hex or rgb color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasoncd598/jaycd598-generate-random-color.git"
+  },
+  "keywords": [
+    "color",
+    "hex",
+    "rgb",
+    "generate",
+    "javascript"
+  ],
+  "author": "Jason C David",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasoncd598/jaycd598-generate-random-color/issues"
+  },
+  "homepage": "https://github.com/jasoncd598/jaycd598-generate-random-color#readme"
+}
