@@ -1,4 +1,4 @@
-# Password Generator
+# Color Generator
 
 A simple npm package for generating colors.
 
